@@ -1,0 +1,18 @@
+{
+  "name": "snyk-controlmap-demo",
+  "version": "1.0.0",
+  "description": "Intentionally vulnerable demo for Snyk to ControlMap testing. Do not deploy.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "4.15.2",
+    "lodash": "4.17.4",
+    "moment": "2.18.1",
+    "jquery": "2.2.4",
+    "handlebars": "4.0.11",
+    "minimist": "0.0.8",
+    "axios": "0.18.0",
+    "jsonwebtoken": "8.1.0",
+    "marked": "0.3.5",
+    "node-serialize": "0.0.4"
+  }
+}
